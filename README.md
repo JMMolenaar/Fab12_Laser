@@ -10,4 +10,7 @@ Quick TODO
 * design of optical system
 * decide on laser source
 
+Options for optics and laser sources
+Lenzes and mirrors: http://www.alibaba.com/product-detail/lens-optical_871336053.html?spm=a2700.7724838.0.0.sozDcf
 
+Laser Diode: http://www.alibaba.com/product-detail/USA-CVD-ZnSe-laser-diode-30w_60155141770.html?spm=a2700.7724838.0.0.YqAXVM
